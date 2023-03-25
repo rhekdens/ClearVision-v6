@@ -40,12 +40,12 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://media.discordapp.net/attachments/1072288657190436988/1089309900468924416/molars.jpeg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
-  --background-brightness: 100%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
+  --background-brightness: 90%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
   --background-contrast: 100%; /* app background contrast [default: 100%] */
   --background-saturation: 100%; /* app background saturation [default: 100%] */
   --background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
@@ -54,7 +54,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://cdn.discordapp.com/attachments/897473112319328256/1089307137840254987/1088335545198989312.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
