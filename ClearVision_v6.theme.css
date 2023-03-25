@@ -18,7 +18,7 @@
   /* ACCENT COLORS */
   --main-color: #1c1c1c; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
   --hover-color: #2d272e; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
-  --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
+  --success-color: #1c1c1c; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
 
@@ -45,7 +45,7 @@
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
-  --background-brightness: 75%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
+  --background-brightness: 50%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
   --background-contrast: 130%; /* app background contrast [default: 100%] */
   --background-saturation: 100%; /* app background saturation [default: 100%] */
   --background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
@@ -108,8 +108,4 @@
   --user-modal-sepia: var(--background-sepia); /* user modal background sepia (0 - 100%) [default: var(--background-sepia)] */
   --user-modal-blur: calc(var(--background-blur) + 3px); /* user modal background blur [default: calc(var(--background-blur) + 3px)] */
 
-  /* THEME BD COLORS */
-  --bd-blue: var(--main-color); /* betterdiscord main color [default: var(--main-color)] */
-  --bd-blue-hover: var(--hover-color); /* betterdiscord hover color [default: var(--hover-color)] */
-  --bd-blue-active: var(--hover-color); /* betterdiscord active color [default: var(--hover-color)] */
 }
